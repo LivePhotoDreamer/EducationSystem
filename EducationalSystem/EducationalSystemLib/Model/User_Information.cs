@@ -8,6 +8,10 @@ namespace EducationalSystemTablesTables.Model
     {
         public int Id { get; set; }
         public int User_Type_Id { get; set; }
-
+        public string Name { get; set; }
+        public string Surname { get; set; }
+        public string Middle_Name { get; set; }
+        public string Login { get; set; }
+        public string Password { get; set; }
     }
 }
