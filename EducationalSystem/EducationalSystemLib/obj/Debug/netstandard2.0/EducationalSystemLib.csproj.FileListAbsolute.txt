@@ -1,0 +1,9 @@
+C:\Users\Stepan\source\repos\EducationalSystem\EducationalSystemLib\bin\Debug\netstandard2.0\EducationalSystemLib.deps.json
+C:\Users\Stepan\source\repos\EducationalSystem\EducationalSystemLib\bin\Debug\netstandard2.0\EducationalSystemLib.dll
+C:\Users\Stepan\source\repos\EducationalSystem\EducationalSystemLib\bin\Debug\netstandard2.0\EducationalSystemLib.pdb
+C:\Users\Stepan\source\repos\EducationalSystem\EducationalSystemLib\obj\Debug\netstandard2.0\EducationalSystemLib.csprojAssemblyReference.cache
+C:\Users\Stepan\source\repos\EducationalSystem\EducationalSystemLib\obj\Debug\netstandard2.0\EducationalSystemLib.AssemblyInfoInputs.cache
+C:\Users\Stepan\source\repos\EducationalSystem\EducationalSystemLib\obj\Debug\netstandard2.0\EducationalSystemLib.AssemblyInfo.cs
+C:\Users\Stepan\source\repos\EducationalSystem\EducationalSystemLib\obj\Debug\netstandard2.0\EducationalSystemLib.csproj.CoreCompileInputs.cache
+C:\Users\Stepan\source\repos\EducationalSystem\EducationalSystemLib\obj\Debug\netstandard2.0\EducationalSystemLib.dll
+C:\Users\Stepan\source\repos\EducationalSystem\EducationalSystemLib\obj\Debug\netstandard2.0\EducationalSystemLib.pdb

@@ -1,0 +1,7 @@
+C:\Users\Stepan\source\repos\EducationalSystem\EducationalSystem\bin\Debug\EducationalSystem.exe.config
+C:\Users\Stepan\source\repos\EducationalSystem\EducationalSystem\bin\Debug\EducationalSystem.exe
+C:\Users\Stepan\source\repos\EducationalSystem\EducationalSystem\bin\Debug\EducationalSystem.pdb
+C:\Users\Stepan\source\repos\EducationalSystem\EducationalSystem\obj\Debug\EducationalSystem.csprojAssemblyReference.cache
+C:\Users\Stepan\source\repos\EducationalSystem\EducationalSystem\obj\Debug\EducationalSystem.csproj.CoreCompileInputs.cache
+C:\Users\Stepan\source\repos\EducationalSystem\EducationalSystem\obj\Debug\EducationalSystem.exe
+C:\Users\Stepan\source\repos\EducationalSystem\EducationalSystem\obj\Debug\EducationalSystem.pdb
