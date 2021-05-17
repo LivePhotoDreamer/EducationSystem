@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\EducationalSystem\\EducationalSystem\\EducationalSystemLib\\EducationalSystemTables.csproj": {}
+    "D:\\University\\3course\\2semester\\Інженерія програмного забезпечення\\Курсова\\EducationSystem\\EducationSystem\\EducationalSystem\\EducationalSystemLib\\EducationalSystemTables.csproj": {}
   },
   "projects": {
-    "C:\\EducationalSystem\\EducationalSystem\\EducationalSystemLib\\EducationalSystemTables.csproj": {
+    "D:\\University\\3course\\2semester\\Інженерія програмного забезпечення\\Курсова\\EducationSystem\\EducationSystem\\EducationalSystem\\EducationalSystemLib\\EducationalSystemTables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\EducationalSystem\\EducationalSystem\\EducationalSystemLib\\EducationalSystemTables.csproj",
+        "projectUniqueName": "D:\\University\\3course\\2semester\\Інженерія програмного забезпечення\\Курсова\\EducationSystem\\EducationSystem\\EducationalSystem\\EducationalSystemLib\\EducationalSystemTables.csproj",
         "projectName": "EducationalSystemTables",
-        "projectPath": "C:\\EducationalSystem\\EducationalSystem\\EducationalSystemLib\\EducationalSystemTables.csproj",
-        "packagesPath": "C:\\Users\\Stepan\\.nuget\\packages\\",
-        "outputPath": "C:\\EducationalSystem\\EducationalSystem\\EducationalSystemLib\\obj\\",
+        "projectPath": "D:\\University\\3course\\2semester\\Інженерія програмного забезпечення\\Курсова\\EducationSystem\\EducationSystem\\EducationalSystem\\EducationalSystemLib\\EducationalSystemTables.csproj",
+        "packagesPath": "C:\\Users\\38095\\.nuget\\packages\\",
+        "outputPath": "D:\\University\\3course\\2semester\\Інженерія програмного забезпечення\\Курсова\\EducationSystem\\EducationSystem\\EducationalSystem\\EducationalSystemLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Stepan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\38095\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
